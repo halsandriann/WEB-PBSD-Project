@@ -1,9 +1,13 @@
+.navbar {
+    margin-bottom: 2rem;
+}
+
 .card-content {
     padding: 2rem 15rem;
 }
 
 .produk {
-    padding: 2rem 2rem;
+    padding: 4rem 2rem;
 }
 .paw {
     padding-top: 2.5rem;
@@ -16,4 +20,8 @@
 
 .warna {
     color: blue;
+}
+
+.Cat-badge , .Rabbit-badge {
+    margin-bottom: 2rem;
 }
